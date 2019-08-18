@@ -1,4 +1,6 @@
-package org.kostiskag.javaadvancedtraining.interfaces.useofprivate;
+package org.kostiskag.javaadvancedtraining.annotationtesting;
+
+import org.kostiskag.javaadvancedtraining.interfaces.useofprivate.HowToUsePrivate;
 
 public class Happy implements HowToUsePrivate {
 

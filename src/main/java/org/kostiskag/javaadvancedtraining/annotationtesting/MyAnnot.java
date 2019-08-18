@@ -1,4 +1,4 @@
-package org.kostiskag.javaadvancedtraining.interfaces.useofprivate;
+package org.kostiskag.javaadvancedtraining.annotationtesting;
 
 
 import java.lang.annotation.ElementType;
