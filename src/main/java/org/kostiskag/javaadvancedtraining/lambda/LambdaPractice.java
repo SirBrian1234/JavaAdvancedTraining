@@ -9,13 +9,13 @@ import java.util.stream.IntStream;
 
 public class LambdaPractice {
 
-    enum DogType {
+    private enum DogType {
         GOLDEN_RETRIEVER,
         CRETAN_RETRIEVER,
         SHEPHERD
     }
 
-    static class Dog {
+    private static class Dog {
         String name;
         DogType race;
         double weight;
